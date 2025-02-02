@@ -22,6 +22,7 @@ export default function Valuation(props) {
         "Firma Değeri / FAVÖK",
         "Net Borç / FAVÖK",
         "Hisse Başı Net Nakit",
+        "Piyasa Değeri / Net İşletme Sermayesi",
         "Değerleme Puanı",
         "Tavsiye",
       ],
